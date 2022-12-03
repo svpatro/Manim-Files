@@ -2,3 +2,5 @@
 .DS_Store
 media/
 __pycache__/
+scenes/media/*
+scenes/__pycache__/*
